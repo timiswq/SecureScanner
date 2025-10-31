@@ -1,0 +1,128 @@
+{
+  "sourceLanguage" : "zh-Hans",
+  "strings" : {
+    "%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@"
+          }
+        }
+      }
+    },
+    "%@\n新功能介绍" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "What’s New in\n%@"
+          }
+        }
+      }
+    },
+    "%@(%lld)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@(%2$lld)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@(%2$lld)"
+          }
+        }
+      }
+    },
+    "%@(%lld/%lld)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@(%2$lld/%3$lld)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@(%2$lld/%3$lld)"
+          }
+        }
+      }
+    },
+    "保存到照片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save to Photos"
+          }
+        }
+      }
+    },
+    "分享图片" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share Image"
+          }
+        }
+      }
+    },
+    "开始保密文件扫描" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Start Document Scan"
+          }
+        }
+      }
+    },
+    "扫描新文档" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scan New Document"
+          }
+        }
+      }
+    },
+    "文件(%lld)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Files(%lld)"
+          }
+        }
+      }
+    },
+    "查看需要验证%@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verification Required to View."
+          }
+        }
+      }
+    },
+    "需要您在设置中允许使用本地加密，用来启用文件加密" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "You need to enable local encryption in Settings to activate file encryption."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

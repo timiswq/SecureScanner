@@ -1,0 +1,60 @@
+{
+  "originHash" : "6020ef3034f380289741a4fbff6985b9fe8ac8d8ac1d681969dbe5c18dfad92e",
+  "pins" : [
+    {
+      "identity" : "keychainaccess",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kishikawakatsumi/KeychainAccess.git",
+      "state" : {
+        "revision" : "84e546727d66f1adc5439debad16270d0fdd04e7",
+        "version" : "4.2.2"
+      }
+    },
+    {
+      "identity" : "mkapiclientkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/timiswq/MKAPIClientKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0e1453f25b59031bdd7ec2eb08a21ca7ba6434ef"
+      }
+    },
+    {
+      "identity" : "mkcommonui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/timiswq/MKCommonUI.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "631e37e825d8255b5e1105edb022cefa1522b8c4"
+      }
+    },
+    {
+      "identity" : "mkcoretypes",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/timiswq/MKCoreTypes.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8e8139b5967f3fdcd3b7951727f094ab2addaa69"
+      }
+    },
+    {
+      "identity" : "mkdatakit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/timiswq/MKDataKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "7cb5d193653826db16f2ff5dac58dcee597bcd42"
+      }
+    },
+    {
+      "identity" : "mkservicekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/timiswq/MKServiceKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ffd1f2a098ce6f84eacf3cfbb98b0773a32f6ab5"
+      }
+    }
+  ],
+  "version" : 3
+}
